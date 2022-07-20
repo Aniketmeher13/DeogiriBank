@@ -33,7 +33,7 @@
             <a class="nav-link text-white" href="index.php">Home</a>
           </li>
           <li class="nav-item btn btn-secondary">
-            <a class="nav-link link-text text-white" href="https://abhijitpal.netlify.app">About Me</a>
+            <a class="nav-link link-text text-white" href="https://www.linkedin.com/in/aniket-meher-8a30a81bb">About Me</a>
           </li>
           <li class="nav-item btn btn-secondary">
             <a class="nav-link link-text text-white" href="contactme.php">Contact me</a>
